@@ -1,3 +1,9 @@
+## NOTE: THIS REPO IS REPLACED BY https://integrations.mattermost.com
+
+The original purpose of this repo was to provide a list of plugins built by Mattermost staff and community. This is now hosted in our [Integrations Directory](https://integrations.mattermost.com).
+
+You can search for plugins in the directory via [this link](https://integrations.mattermost.com/?s=plugin&submit=) and subscribe to notifications by joining our [Integrations community channel](https://community.mattermost.com/core/channels/integrations) where all new integration submissions are posted to.
+
 # mattermost-plugins
 
 Mattermost is an open source, self-hosted Slack-alternative https://mattermost.com.
@@ -46,8 +52,12 @@ Non-production plugins built by Mattermost staff and community.
 - [mattermost-plugin-memes](https://github.com/mattermost/mattermost-plugin-memes)
 - [mattermost-plugin-notifymatters](https://github.com/Kopano-dev/mattermost-plugin-notifymatters)
 - [mattermost-plugin-profanity-filter](https://github.com/mattermost/mattermost-plugin-profanity-filter)
+- [mattermost-plugin-remind](https://github.com/scottleedavis/mattermost-plugin-remind)
 - [mattermost-plugin-spoiler](https://github.com/moussetc/mattermost-plugin-spoiler)
+- [mattermost-plugin-spybot](https://github.com/scottleedavis/mattermost-plugin-spybot)
 - [mattermost-plugin-statuspage](https://github.com/cpanato/mattermost-plugin-statuspage)
+- [mattermost-plugin-tableflip](https://github.com/cmeadows/mattermost-plugin-tableflip)
 - [mattermost-plugin-walltime](https://github.com/mattermost/mattermost-plugin-walltime)
 - [mattermost-plugin-welcomebot](https://github.com/mattermost/mattermost-plugin-welcomebot)
 - [mattermost-plugin-xkcd](https://github.com/techunter/mattermost-xkcd-plugin)
+- [Standup Raven](https://github.com/standup-raven/standup-raven)
